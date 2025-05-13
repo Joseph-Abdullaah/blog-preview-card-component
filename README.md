@@ -32,7 +32,7 @@ Users should be able to:
 ### Link
 
 
-* Live Site URL: [Live Demo](https://your-live-site-url.com)
+* Live Site URL: [Live Demo](https://joseph-abdullaah.github.io/blog-preview-card-component/)
 
 ## My process
 
